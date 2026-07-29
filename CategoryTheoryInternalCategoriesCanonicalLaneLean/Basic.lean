@@ -1,0 +1,2 @@
+import CategoryTheoryInternalCategoriesCanonicalLaneLean.GateLemmas
+import CategoryTheoryInternalCategoriesCanonicalLaneLean.FinalTheorem
